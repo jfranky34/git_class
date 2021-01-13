@@ -9,7 +9,9 @@
 
 # Testing IntelliJ from local to be pushed to Github
 
-
+================================================
+# Pulling from GitHub with IntelliJ to local
+================================================
 
 
 Foobar is a Python library for dealing with word pluralization.
