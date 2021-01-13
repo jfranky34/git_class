@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 *.log 
 *.inorganic
 *.py
 *.orig
+=======
+
+*.log
+*.py
+>>>>>>> 5ae2a3df5a2a6b2c62f9c197a8646cd41b3f5575
