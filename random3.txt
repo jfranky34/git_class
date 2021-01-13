@@ -2,3 +2,5 @@
 This is a random file for git testing.
 
 Another change on git_branch
+
+Editing the random file in VSCode
