@@ -2,7 +2,7 @@
 # This is practice with VSCode
 # It's much easier than the cmd line.
 
-
+# Editing in GitHub to pull down to local with VSCode
 
 
 
