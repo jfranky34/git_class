@@ -4,6 +4,10 @@
 
 # Editing in GitHub to pull down to local with VSCode
 
+=======================================================
+# Editing in IntelliJ from local to be pushed to Github
+
+# Testing IntelliJ from local to be pushed to Github
 
 
 
