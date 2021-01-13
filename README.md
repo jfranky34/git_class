@@ -4,6 +4,8 @@ Foobar is a Python library for dealing with word pluralization.
 =======
 ## Change from git_branch
 ## Local Git Change to push to GitHub.
+# Making more changes to test git Rebase function.
+Think this one change is enough
 
 >>>>>>> 5953c793723a411dd0c38358b108317006986739
 ## Installation
